@@ -1,1 +1,11 @@
-machine
+greeting
+to
+you
+the
+finder
+of this 
+golden
+ticket
+from
+mister
+wonka
